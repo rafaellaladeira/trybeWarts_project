@@ -1,6 +1,6 @@
 * {
-    padding: 0px;
-    margin: 0px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .trybewarts-header-logo{
@@ -13,29 +13,28 @@ h1 {
 }
 
 .header {
-    display: flex;
-    background-color: rgb(50, 167, 145);
-    height: 50px;
-    justify-content: space-between;
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  height: 50px;
+  justify-content: space-between;
 }
 
 .trybewarts-login {
-    display: flex;
-    padding-right: 35px;
+  display: flex;
+  padding-right: 35px;
 }
 
 button, input {
-    height: 30px;
-    width: 120px;
-    border-radius: 5px;
-    
-    margin-top: 10px;
-    margin: 5px;
+  height: 30px;
+  width: 120px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin: 5px;
 }
 
 input {
-    border-color: white;
-    padding-left: 10px;
+  border-color: white;
+  padding-left: 10px;
 }
 button {
   color: white;
