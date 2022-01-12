@@ -29,17 +29,19 @@ button , input {
   width: 120px;
   border-radius: 5px;
   margin-top: 10px;
-  margin: 5px;
 }
 
 input {
   border-color: white;
   padding-left: 10px;
+  margin: 5px;
 }
+
 button {
   color: white;
   background-color: rgb(84, 40, 141);
   height: 33px;
+  margin: 5px;
 }
 
 main {
@@ -57,7 +59,6 @@ main {
 #trybewarts-forms-logo {
   height: 500px;
   float:right;
-  padding-right: 150px;
 }
 
 #input-name {
@@ -108,9 +109,14 @@ main {
   display: flex;
 }
 
+.logo {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
 footer {
   margin-top: 100px;
   text-align: center;
   background-color: rgb(37, 43, 25);
-  color:white;
+  color: white;
 }
