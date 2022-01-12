@@ -87,8 +87,8 @@ main {
 }
 
 .family {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
     
 }
 
@@ -98,10 +98,20 @@ main {
 }
 
 .checklist {
-    margin-top: 25px;
+  margin-top: 25px;
 }
 
 #label-content {
-    margin-left: 35px;
-    font-size: 22px;
+  margin-left: 35px;
+  font-size: 22px;
+}
+
+.rate {
+  padding-top: 35px;
+  display: flex
+}
+
+.info {
+  padding-top: 35px;
+  display: flex;
 }
