@@ -58,7 +58,7 @@ main {
 
 #trybewarts-forms-logo {
   height: 500px;
-  float:right;
+  float: right;
 }
 
 #input-name {
@@ -101,7 +101,7 @@ main {
 
 .rate {
   padding-top: 35px;
-  display: flex
+  display: flex;
 }
 
 .info {
